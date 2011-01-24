@@ -1,0 +1,35 @@
+Partlist
+
+Exported from single_unit_v_0_1.brd at 24.01.11 08:05
+
+EAGLE Version 5.6.0 Copyright (c) 1988-2009 CadSoft
+
+Part      Value          Package  Library  Position (mm)         Orientation
+
+C1        10u            E1,8-4   resistor (12.3012 11.9195)     R180
+C2        100u           E2,5-6E  resistor (49.8188 14.6605)     R0
+C3        10u            E1,8-4   resistor (19.5688 5.9805)      R270
+C4        10u            E1,8-4   resistor (58.7088 5.5005)      R270
+D1        1N4148DO35-10  DO35-10  diode    (54.5428 11.8759)     R90
+D2        1N4004         DO41-10  diode    (74.5 15.5)           R270
+FC1       +              1,6/0,8  wirepad  (42.1988 12.1205)     R0
+FC2       -              1,6/0,8  wirepad  (29.4988 7.0405)      R0
+GND       GROUND         4,16O1,6 wirepad  (72.5788 4.0005)      R0
+IC1       TL071P         DIL08    linear   (35.8488 10.8505)     R270
+JP1                      1X02     pinhead  (92.5 12)             R90
+K1        G5V1           G5V1     relay    (83.5 13)             R180
+LED       GREEN          LED5MM   led      (65.0522 18.2207)     R270
+R1        1k             0207/7   rcl      (57.4388 13.1205)     R270
+R2        10k            0207/7   rcl      (7.3888 8.0205)       R90
+R3        10k            0207/7   rcl      (51.0888 6.7705)      R90
+R4        1k             0207/7   rcl      (23.3505 13.7212)     R0
+R5        100k           0207/7   rcl      (30.9105 18.2912)     R0
+R6        1k             0207/7   rcl      (62.5188 10.5805)     R90
+R7        10k            0207/7   rcl      (16.8388 12.8785)     R270
+R9        10k            0207/7   resistor (24.0405 6.6212)      R90
+SIG       SIGNAL         2,54/1,0 wirepad  (3.8288 11.6005)      R0
+SIG_GND   V-             2,54/1,0 wirepad  (3.754 4.266)         R0
+SWITCHOUT SWITCHED_12VDC 1X02     pinhead  (71.1794 17.9505)     R270
+SW_GND    sw_ground      4,16O1,6 wirepad  (95.75 4.25)          R0
+T1        TIP122         TO220S   v-reg    (69.1788 8.7905)      R270
+VCC       VCC+           4,16O1,6 wirepad  (95.75 20)            R0
